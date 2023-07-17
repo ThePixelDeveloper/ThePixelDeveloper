@@ -1,6 +1,6 @@
-Greetings,
+Hey,
 
-I'm Mathew (just one 't', please) 😁. I'm the Technical Manager at Just Eat Takeaway.
+I'm Mathew (just one 't', please) 😁. I'm a Technical Manager at Just Eat Takeaway.
 
 My professional journey started with software engineering, honing my skills in JavaScript, PHP, and GoLang 💻. I also dove into PCB design and embedded programming, using low-level C to create LED bike displays (I have videos!).
 
