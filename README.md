@@ -1,11 +1,13 @@
-# Hello there,
+Greetings,
 
-I'm Mathew - and _yes_, it's just one 't', not two. Currently, I'm steering the ship as a Technical Manager at Just Eat Takeaway.
+I'm Mathew (just one 't', please) 😁. I'm the Technical Manager at Just Eat Takeaway.
 
-My professional journey took flight in the realm of software engineering, where I sharpened my skills in several programming languages, including JavaScript, PHP, and GoLang. Not content with that, I ventured into the specialized fields of PCB design and embedded programming, wielding the power of low-level C with Microchip Studio as my tool of choice 🧰.
+My professional journey started with software engineering, honing my skills in JavaScript, PHP, and GoLang 💻. I also dove into PCB design and embedded programming, using low-level C to create LED bike displays (I have videos!).
 
-Beyond the world of coding, I dabble in the less binary side of software engineering 🎭. I've dipped my toes into internal conferences, distributed essential information, and even seized the mic at meet-ups from time to time 🎤.
+Beyond just coding, I'm involved in all aspects of software engineering 🎭. From internal conferences to spreading key updates, to the occasional meet-up speaking gig 🎤.
 
-I may not have a treasure trove of projects to showcase, but don't be fooled - I'm no stranger to the open-source community. From supporting the no-code editor, baklava, with a few well-placed financial boosts 💵, to submitting code tweaks to libreddit, the privacy-centric Reddit front-end, I do my bit.
+Don't be fooled by my sparse project portfolio; I'm an active open-source community contributor. I've financially supported the baklava no-code editor 💵 and tweaked the code for libreddit, a privacy-focused Reddit front-end.
 
-And of course, in this rapidly evolving tech universe, I'm always on the lookout for the next big thing. Right now, I've got my eye on emerging technologies like LLMs 🌠. So here's to the future - may it be as unpredictable and exciting as a JavaScript update! 🥂
+In our fast-paced tech world, I keep an eye on emerging trends, particularly LLMs 🌠. Here's to a future as thrilling as a JavaScript update! 🥂
+
+Lastly, feel free to reach out to me for workshops, or speaker opportunities. I'm always open to collaboration and sharing knowledge. Let's connect and create something impactful together!
